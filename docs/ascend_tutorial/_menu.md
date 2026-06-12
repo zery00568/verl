@@ -2,7 +2,7 @@
 
 - [简介](README.md)
 - [软件安装]()
-  - [安装指导](get_start/install_guide.rst)
+  - [安装指导](get_start/install_guidance.rst)
   - [镜像安装指导](get_start/dockerfile_build_guidance.rst)
 - [快速上手](get_start/quick_start.rst)
 - [模型使用]()
