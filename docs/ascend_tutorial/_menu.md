@@ -22,5 +22,5 @@
   - [性能调优指南](dev_guide/performance/perf_tuning_on_ascend.rst)
   - [Profiling采集指导](dev_guide/performance/ascend_profiling_zh.rst)
 - [社区贡献]()
-  - [开发者贡献指导](contributing)
+  - [开发者贡献指导](../contributing)
   - [昇腾环境CI配置与测试](contribution_guide/ascend_ci_guide_zh.rst)
