@@ -9,7 +9,7 @@
   - [模型与算法支持说明](model_support/model_and_algorithm_support.md)
   - [最佳实践](model_support/examples)
 - [特性说明]()
-  - [verl特性支持](dev_guide/model_dev/parameter_and_metrics.md)
+  - [verl特性支持](feature_support/ascend_backend_features.md)
   - [NPU特性适配](feature_support/npu_advance_features.md)
 - [模型迁移]()
   - [模型迁移适配指导](dev_guide/model_dev/transfer_to_npu_guide.md)
