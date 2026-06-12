@@ -4,7 +4,7 @@
 - [软件安装]()
   - [安装指导](get_start/install_guide.md)
   - [镜像安装指导](get_start/dockerfile_build_guidance.rst)
-- [快速上手](get_start/quick_start.md)
+- [快速上手](get_start/quick_start.rst)
 - [模型使用]()
   - [模型与算法支持说明](model_support/model_and_algorithm_support.md)
   - [最佳实践](model_support/examples)
